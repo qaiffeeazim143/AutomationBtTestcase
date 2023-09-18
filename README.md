@@ -1,2 +1,2 @@
 # AutomationBtTestcase
-CoverTestcase for BT Web Page
+Cover Test case for BT Web Page
